@@ -1,4 +1,4 @@
-<img width="1949" height="2032" alt="Screenshot 2025-09-16 092026" src="https://github.com/user-attachments/assets/d6d5836a-b745-4ab8-8181-859ee152acae" /># 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+
 ## AIM
 ## ALGORITHM:
 1. Start the program.
